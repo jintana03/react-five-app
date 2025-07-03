@@ -8,7 +8,7 @@ function Home() {
                       justify-center h-screen 
                       bg-orange-100">
           <span className="text-4xl font-bold text-pink-500 mb-4">
-            Welcome to My Calculator
+            Welcome to Jintana Calculator
           </span>
           <div className="flex">
             <Link to="/sum-number" className="bg-orange-400 hover:bg-pink-500 text-white font-bold py-2 px-4 rounded-lg mr-2">
